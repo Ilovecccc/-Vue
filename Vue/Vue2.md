@@ -30,11 +30,11 @@ v:bind绑定 将一个字符串拿出来当表达式来执行
 
 双向绑定（v-model）：数据不仅能从data流向页面，还可以从页面流向data
 
-备注：
+备注:
 
-双向绑定一般都应用在表单类元素上（如：<input>、<select>、<textarea>等）
+双向绑定一般都应用在表单类元素上（如：<input>、<select>、<textarea>等）<br/>
 
-v-model:value可以简写为v-model，因为v-model默认收集的就是value值
+v-model:value可以简写为v-model，因为v-model默认收集的就是value值 <br/>
 
  
 
